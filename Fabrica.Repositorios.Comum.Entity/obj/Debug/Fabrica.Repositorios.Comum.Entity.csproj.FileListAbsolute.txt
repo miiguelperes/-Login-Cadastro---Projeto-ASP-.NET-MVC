@@ -1,0 +1,14 @@
+C:\Users\joaof\Documents\Unipam\DESENVOLVIMENTO_SI_AVANCADOS\Aulas\Fabrica.Carros\Fabrica.Repositorios.Comum.Entity\bin\Debug\Fabrica.Repositorios.Comum.Entity.dll.config
+C:\Users\joaof\Documents\Unipam\DESENVOLVIMENTO_SI_AVANCADOS\Aulas\Fabrica.Carros\Fabrica.Repositorios.Comum.Entity\bin\Debug\Fabrica.Repositorios.Comum.Entity.dll
+C:\Users\joaof\Documents\Unipam\DESENVOLVIMENTO_SI_AVANCADOS\Aulas\Fabrica.Carros\Fabrica.Repositorios.Comum.Entity\bin\Debug\Fabrica.Repositorios.Comum.Entity.pdb
+C:\Users\joaof\Documents\Unipam\DESENVOLVIMENTO_SI_AVANCADOS\Aulas\Fabrica.Carros\Fabrica.Repositorios.Comum.Entity\bin\Debug\EntityFramework.dll
+C:\Users\joaof\Documents\Unipam\DESENVOLVIMENTO_SI_AVANCADOS\Aulas\Fabrica.Carros\Fabrica.Repositorios.Comum.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\joaof\Documents\Unipam\DESENVOLVIMENTO_SI_AVANCADOS\Aulas\Fabrica.Carros\Fabrica.Repositorios.Comum.Entity\bin\Debug\Fabrica.Carros.Repositorios.Comum.dll
+C:\Users\joaof\Documents\Unipam\DESENVOLVIMENTO_SI_AVANCADOS\Aulas\Fabrica.Carros\Fabrica.Repositorios.Comum.Entity\bin\Debug\Fabrica.Carros.Repositorios.Comum.pdb
+C:\Users\joaof\Documents\Unipam\DESENVOLVIMENTO_SI_AVANCADOS\Aulas\Fabrica.Carros\Fabrica.Repositorios.Comum.Entity\bin\Debug\EntityFramework.xml
+C:\Users\joaof\Documents\Unipam\DESENVOLVIMENTO_SI_AVANCADOS\Aulas\Fabrica.Carros\Fabrica.Repositorios.Comum.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\joaof\Documents\Unipam\DESENVOLVIMENTO_SI_AVANCADOS\Aulas\Fabrica.Carros\Fabrica.Repositorios.Comum.Entity\obj\Debug\Fabrica.Repositorios.Comum.Entity.csprojAssemblyReference.cache
+C:\Users\joaof\Documents\Unipam\DESENVOLVIMENTO_SI_AVANCADOS\Aulas\Fabrica.Carros\Fabrica.Repositorios.Comum.Entity\obj\Debug\Fabrica.Repositorios.Comum.Entity.csproj.CoreCompileInputs.cache
+C:\Users\joaof\Documents\Unipam\DESENVOLVIMENTO_SI_AVANCADOS\Aulas\Fabrica.Carros\Fabrica.Repositorios.Comum.Entity\obj\Debug\Fabrica.Repositorios.Comum.Entity.csproj.CopyComplete
+C:\Users\joaof\Documents\Unipam\DESENVOLVIMENTO_SI_AVANCADOS\Aulas\Fabrica.Carros\Fabrica.Repositorios.Comum.Entity\obj\Debug\Fabrica.Repositorios.Comum.Entity.dll
+C:\Users\joaof\Documents\Unipam\DESENVOLVIMENTO_SI_AVANCADOS\Aulas\Fabrica.Carros\Fabrica.Repositorios.Comum.Entity\obj\Debug\Fabrica.Repositorios.Comum.Entity.pdb

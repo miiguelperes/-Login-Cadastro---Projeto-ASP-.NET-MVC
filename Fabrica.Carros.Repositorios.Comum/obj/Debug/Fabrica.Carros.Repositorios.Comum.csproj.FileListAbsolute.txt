@@ -1,0 +1,5 @@
+C:\Users\joaof\Documents\Unipam\DESENVOLVIMENTO_SI_AVANCADOS\Aulas\Fabrica.Carros\Fabrica.Carros.Repositorios.Comum\bin\Debug\Fabrica.Carros.Repositorios.Comum.dll
+C:\Users\joaof\Documents\Unipam\DESENVOLVIMENTO_SI_AVANCADOS\Aulas\Fabrica.Carros\Fabrica.Carros.Repositorios.Comum\bin\Debug\Fabrica.Carros.Repositorios.Comum.pdb
+C:\Users\joaof\Documents\Unipam\DESENVOLVIMENTO_SI_AVANCADOS\Aulas\Fabrica.Carros\Fabrica.Carros.Repositorios.Comum\obj\Debug\Fabrica.Carros.Repositorios.Comum.csproj.CoreCompileInputs.cache
+C:\Users\joaof\Documents\Unipam\DESENVOLVIMENTO_SI_AVANCADOS\Aulas\Fabrica.Carros\Fabrica.Carros.Repositorios.Comum\obj\Debug\Fabrica.Carros.Repositorios.Comum.dll
+C:\Users\joaof\Documents\Unipam\DESENVOLVIMENTO_SI_AVANCADOS\Aulas\Fabrica.Carros\Fabrica.Carros.Repositorios.Comum\obj\Debug\Fabrica.Carros.Repositorios.Comum.pdb

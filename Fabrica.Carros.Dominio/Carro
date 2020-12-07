@@ -1,0 +1,19 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Fabrica.Carros.Dominio
+{
+    public class Carro
+    {
+        public long IdCarro { get; set; }
+        public string NomeCarro { get; set; }
+        public string Cor { get; set; }
+        public string Tamanho { get; set; }
+        public virtual Fabricante Fabricante { get; set; }
+        public int idFabricante { get; set; }
+        public int Ano { get; set; }
+    }
+}

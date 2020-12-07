@@ -1,0 +1,5 @@
+C:\Users\joaof\Documents\Unipam\DESENVOLVIMENTO_SI_AVANCADOS\Aulas\Fabrica.Carros\Fabrica.Carros.Dominio\bin\Debug\Fabrica.Carros.Dominio.dll
+C:\Users\joaof\Documents\Unipam\DESENVOLVIMENTO_SI_AVANCADOS\Aulas\Fabrica.Carros\Fabrica.Carros.Dominio\bin\Debug\Fabrica.Carros.Dominio.pdb
+C:\Users\joaof\Documents\Unipam\DESENVOLVIMENTO_SI_AVANCADOS\Aulas\Fabrica.Carros\Fabrica.Carros.Dominio\obj\Debug\Fabrica.Carros.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\joaof\Documents\Unipam\DESENVOLVIMENTO_SI_AVANCADOS\Aulas\Fabrica.Carros\Fabrica.Carros.Dominio\obj\Debug\Fabrica.Carros.Dominio.dll
+C:\Users\joaof\Documents\Unipam\DESENVOLVIMENTO_SI_AVANCADOS\Aulas\Fabrica.Carros\Fabrica.Carros.Dominio\obj\Debug\Fabrica.Carros.Dominio.pdb
